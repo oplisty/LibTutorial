@@ -1,2 +1,3 @@
-cat,0
-dragon,1
+img,label
+cat.png,0
+dragon.png,1
